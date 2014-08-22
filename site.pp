@@ -1,4 +1,5 @@
 
+#pull
 ## site.pp ##
 #test
 # This file (/etc/puppetlabs/puppet/manifests/site.pp) is the main entry point
